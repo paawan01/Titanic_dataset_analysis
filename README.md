@@ -30,7 +30,7 @@ The notebook 'Titanic_dataset_analysis.ipynb' strives to answer some chosen ques
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@paawan01/would-you-survive-the-titanic-disaster-eda253bad4ec).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
