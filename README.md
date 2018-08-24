@@ -9,7 +9,15 @@
 
 ## Installation <a name="installation"></a>
 
+The libraries/packages used are:
+- numpy
+- pandas
+- matplotlib
+- sklearn
+- seaborn
+
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*
+
 
 
 ## Project Motivation<a name="motivation"></a>
@@ -27,6 +35,14 @@ Using descriptive statistics.
 The notebook 'Titanic_dataset_analysis.ipynb' strives to answer some chosen question using simple exploratory data analysis, and descriptive statistics, (the aim is to avoid using any inferential statistics or Machine learning) on the titanic dataset. This notebook follows on lines of Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
 'Titanic_dataset_analysis.html' is the static html version of the notebook.
+
+The data folder contains two files:
+
+- training set (train.csv) : The training set should be used to build machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger.
+- test set (test.csv) : The test set should be used to see how well the model performs on unseen data. For the test set, we do not provide the ground truth for each passenger.
+
+The data has been taken from Kaggle's website [here](https://www.kaggle.com/c/titanic/data).
+
 
 ## Results<a name="results"></a>
 
